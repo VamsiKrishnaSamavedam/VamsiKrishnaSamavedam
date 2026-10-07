@@ -85,4 +85,4 @@ SQL Server, PostgreSQL, Neo4j, Power BI
 
 **GitHub:** [VamsiKrishnaSamavedam](https://github.com/VamsiKrishnaSamavedam)
 
-**Email:** [vamsikrishnasamavedam@gmail.com](mailto:vamsikrishnasamavedam@gmail.com)
+**Email:** [vamsikrishnasamavedam@gmail.com](mailto:samavedamvamsikrishna1@gmail.com)
